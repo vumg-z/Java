@@ -23,12 +23,12 @@ public class areaCircle {
 		
 		//process
 		
-		area = NUMERO_PI*(radio);
+		area = NUMERO_PI*(radio*radio);
 		
 		
 		//output
 		
-		System.out.println("El area es: "+area^2);
+		System.out.println("El area es: "+area);
 		
 		input.close();
 		
