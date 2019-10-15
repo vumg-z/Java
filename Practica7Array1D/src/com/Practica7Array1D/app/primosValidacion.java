@@ -16,7 +16,7 @@ public class primosValidacion {
 			Scanner input = new Scanner(System.in);
 			
 			
-		// validacion 
+		// validacion .
 			
 			
 			do {
