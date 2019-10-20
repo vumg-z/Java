@@ -1,4 +1,6 @@
-# Java
+<h1 align="center">
+  Java
+</h1>
 Recoplicacion de practicas y ejercicios en java, explora y contribuye. 
 
 Practica 1 "Hola mundo"
