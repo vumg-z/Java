@@ -1,7 +1,10 @@
 <h1 align="center">
   Java
 </h1>
-Recoplicacion de practicas y ejercicios en java, explora y contribuye. 
+<p align="center">
+  Recoplicacion de practicas y ejercicios en java, explora y contribuye. 
+</p>
+
 
 Practica 1 "Hola mundo"
 -
