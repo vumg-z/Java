@@ -33,13 +33,14 @@ Exercises in java
 
 #### Practica 6 "Meses"
 
-    Utilizamos switch case para imprimir, segun el numero introducido por el usuario el nombre del mes al que le correspondia.
+    Utilizamos switch case para imprimir, segun el numero introducido por el usuario, el nombre del mes al que le 
+    correspondia.
 
 [Codigo fuente](https://github.com/UrielMendozaG/Java/blob/estable/Practica6SwitchCase/src/com/Practica6Switchcase/app/SwichStatement.java)
 
-    #### Practica 7 "Un arreglo basico"
+#### Practica 7 "Un arreglo basico"
 
-Declaramos un arreglo y lo imprimimos.
+        Declaramos un arreglo y lo imprimimos.
 
 [Codigo fuente](https://github.com/UrielMendozaG/Java/blob/estable/Practica7Array1D/src/com/Practica7Array1D/app/Array1D.java)
 
