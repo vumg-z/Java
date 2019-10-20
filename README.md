@@ -92,7 +92,7 @@ Hacer un programa que llene un arreglo de numeros invertidos, despues muestre la
 
 [Codigo fuente](https://github.com/UrielMendozaG/Java/blob/estable/Practica7Array1D/src/com/Practica7Array1D/app/numerosAleatoriosMediaAritmetica.java)
 
-### Mas ejercicios en este repo
+## Mas ejercicios en este repo
 
 [Repo en github](https://github.com/UrielMendozaG/Generation-Mexico/blob/master/Programacion/Java/README.md#ejercicios)
 
