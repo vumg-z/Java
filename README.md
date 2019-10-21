@@ -5,6 +5,25 @@
   Recoplicacion de practicas y ejercicios en java, explora y contribuye. 
 </h4>
 
+## Tabla de Contenido
+
+### Practicas
+
+- [Hola mundo](#Practica-1)
+- [Tipos de datos]()
+- [Area de triangulo]()
+- [Area del circulo]()
+- [Edad]()
+- [Meses]()
+- [Arreglo basico]()
+
+### Ejercicios
+- [Fibonacci]()
+- [Factorial]()
+- [Invertir un arreglo]()
+- [Numeros pseudo-aleatorios]()
+- [Numeros primos]()
+- [Media aritmetica]()
 
 ## Practica 1 "Hola mundo"
 
