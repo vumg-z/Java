@@ -9,21 +9,21 @@
 
 ### Practicas
 
-- [Hola mundo](#Practica-1)
-- [Tipos de datos]()
-- [Area de triangulo]()
-- [Area del circulo]()
-- [Edad]()
-- [Meses]()
-- [Arreglo basico]()
+- [Hola mundo](#Practica-1-hola-mundo)
+- [Tipos de datos](#Practica-2-tipos-de-datos)
+- [Area de triangulo](#Practica-3-area-del-triangulo)
+- [Area del circulo](#Practica-4-area-del-circulo)
+- [Edad](#Practica-5-edad)
+- [Meses](#Practica-6-meses)
+- [Arreglo basico](#Practica-7-un-arreglo-basico)
 
 ### Ejercicios
-- [Fibonacci]()
-- [Factorial]()
-- [Invertir un arreglo]()
-- [Numeros pseudo-aleatorios]()
-- [Numeros primos]()
-- [Media aritmetica]()
+- [Fibonacci](#fibonacci)
+- [Factorial](#factorial)
+- [Invertir un arreglo](#arreglo-invertido)
+- [Numeros pseudo-aleatorios](#numeros-pseudo-aleatorios)
+- [Numeros primos](#numeros-primos)
+- [Media aritmetica](#media-aritmetica)
 
 ## Practica 1 "Hola mundo"
 
@@ -93,7 +93,7 @@ Hacer un programa en Java que lea un arreglo, luego muestre ese arreglo invertid
 
 [Codigo fuente](https://github.com/UrielMendozaG/Java/blob/estable/Practica7Array1D/src/com/Practica7Array1D/app/arregloInvertido.java)
 
-## Numeros Aleatorios
+## Numeros Pseudo-Aleatorios
 
 Hacer un programa en java que llene un arreglo de numeros invertidos.
 
