@@ -2,7 +2,7 @@
   Java
 </h1>
 <h4 align="center">
-  Recoplicacion de practicas y ejercicios en java, explora y contribuye. 
+  Recopilacion de practicas y ejercicios en java, explora y contribuye. 
 </h4>
 
 ## Tabla de Contenido
