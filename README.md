@@ -26,6 +26,12 @@
 - [Numeros primos](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/primosArray.java)
 - [Media aritmetica](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/numerosAleatoriosMediaAritmetica.java)
 
+### Metodos de busqueda
+- [Sequential Sort](https://github.com/UrielMendozaG/Sequential-Search)
+- [Binary Search](https://github.com/UrielMendozaG/Binary-Search)
+
+### Metodos de ordenacion
+- [Bubble Sort](https://github.com/UrielMendozaG?tab=repositories)
 
 
 ## Mas ejercicios en este repo
