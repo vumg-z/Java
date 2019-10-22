@@ -25,6 +25,7 @@
 - [Numeros pseudo-aleatorios](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/RandomNumbers.java)
 - [Numeros primos](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/primosArray.java)
 - [Media aritmetica](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/numerosAleatoriosMediaAritmetica.java)
+- [Ejercicios usando Strings](https://github.com/UrielMendozaG/Strings)
 
 ### Metodos de busqueda
 - [Sequential Sort](https://github.com/UrielMendozaG/Sequential-Search)
