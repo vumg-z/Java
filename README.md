@@ -41,6 +41,7 @@
 - [Array List](https://github.com/UrielMendozaG/Java/blob/master/src/Array%20List/src/com/arraylist/com/ArrayListApp.java)
 - [Pila](https://github.com/UrielMendozaG/Java/blob/master/src/Stacks/src/StackApp.java)
 - [Colas](https://github.com/UrielMendozaG/Java/blob/master/src/Colas/src/com/colas/app/Cola.java)
+- [Hash Maps]()
 
 
 ## Mas ejercicios en este repo
