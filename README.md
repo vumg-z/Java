@@ -27,6 +27,7 @@
 - [Media aritmetica](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/numerosAleatoriosMediaAritmetica.java)
 - [Ejercicios usando Strings](https://github.com/UrielMendozaG/Strings)
 - [Cadenas Palindromas]()
+- [Ocurrencias]()
 
 ### Metodos de busqueda
 - [Sequential Search](https://github.com/UrielMendozaG/Sequential-Search)
