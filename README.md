@@ -28,15 +28,15 @@
 - [Ejercicios usando Strings](https://github.com/UrielMendozaG/Strings)
 
 ### Metodos de busqueda
-- [Sequential Sort](https://github.com/UrielMendozaG/Sequential-Search)
+- [Sequential Search](https://github.com/UrielMendozaG/Sequential-Search)
 - [Binary Search](https://github.com/UrielMendozaG/Binary-Search)
 
 ### Metodos de ordenacion
-- [Bubble Sort](https://github.com/UrielMendozaG?tab=repositories)
+- [Bubble Sort](https://github.com/UrielMendozaG/Bubble-Sort)
 
 ### Colecciones
-- [Linked List]()
-- [Array List](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List)
+- [Linked List](https://github.com/UrielMendozaG/Java/blob/master/src/Collections/src/com/linkedlist/app/LinkedListApp.java)
+- [Array List](https://github.com/UrielMendozaG/Java/blob/master/src/Array%20List/src/com/arraylist/com/ArrayListApp.java)
 - [Pila]()
 - [Colas]()
 
