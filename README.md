@@ -28,7 +28,7 @@
 - [Ejercicios usando Strings](https://github.com/UrielMendozaG/Strings)
 
 ### Metodos de busqueda
-- [Sequential Sort](https://github.com/UrielMendozaG/Sequential-Search)
+- [Sequential Search](https://github.com/UrielMendozaG/Sequential-Search)
 - [Binary Search](https://github.com/UrielMendozaG/Binary-Search)
 
 ### Metodos de ordenacion
