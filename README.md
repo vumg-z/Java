@@ -32,7 +32,7 @@
 - [Binary Search](https://github.com/UrielMendozaG/Binary-Search)
 
 ### Metodos de ordenacion
-- [Bubble Sort](https://github.com/UrielMendozaG?tab=repositories)
+- [Bubble Sort](https://github.com/UrielMendozaG/Bubble-Sort)
 
 ### Colecciones
 - [Linked List](https://github.com/UrielMendozaG/Java/blob/master/src/Collections/src/com/linkedlist/app/LinkedListApp.java)
