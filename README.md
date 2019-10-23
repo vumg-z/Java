@@ -36,7 +36,7 @@
 
 ### Colecciones
 - [Linked List](https://github.com/UrielMendozaG/Java/blob/master/src/Collections/src/com/linkedlist/app/LinkedListApp.java)
-- [Array List](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List)
+- [Array List](https://github.com/UrielMendozaG/Java/blob/master/src/Array%20List/src/com/arraylist/com/ArrayListApp.java)
 - [Pila]()
 - [Colas]()
 
