@@ -26,6 +26,7 @@
 - [Numeros primos](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/primosArray.java)
 - [Media aritmetica](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/numerosAleatoriosMediaAritmetica.java)
 - [Ejercicios usando Strings](https://github.com/UrielMendozaG/Strings)
+- [Cadenas Palindromas]()
 
 ### Metodos de busqueda
 - [Sequential Search](https://github.com/UrielMendozaG/Sequential-Search)
@@ -37,8 +38,8 @@
 ### Colecciones
 - [Linked List](https://github.com/UrielMendozaG/Java/blob/master/src/Collections/src/com/linkedlist/app/LinkedListApp.java)
 - [Array List](https://github.com/UrielMendozaG/Java/blob/master/src/Array%20List/src/com/arraylist/com/ArrayListApp.java)
-- [Pila]()
-- [Colas]()
+- [Pila](https://github.com/UrielMendozaG/Java/blob/master/src/Stacks/src/StackApp.java)
+- [Colas](https://github.com/UrielMendozaG/Java/blob/master/src/Colas/src/com/colas/app/Cola.java)
 
 
 ## Mas ejercicios en este repo
