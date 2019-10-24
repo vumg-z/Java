@@ -20,7 +20,7 @@
 - [Assertions](https://github.com/UrielMendozaG/Java/blob/master/src/Assertions/src/com/assertions/app/AssertionsApp.java)
 - [Generics](https://github.com/UrielMendozaG/Java/tree/master/src/Generics/src/com/generics)
 - [Streams Reader](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams/app/StreamsApp.java)
-- [Strems Writer](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams2/app/WritterApp.java)
+- [Streams Writer](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams2/app/WritterApp.java)
 
 ### Ejercicios
 - [Fibonacci usando array](https://github.com/UrielMendozaG/Java/blob/estable/src/Fibonacci/src/com/fibonacci/app/Fibonacci.java)
