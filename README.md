@@ -16,6 +16,10 @@
 - [Edad](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica5Algoritmos/src/com/practica5algoritmos/app/Age.java)
 - [Meses](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica6SwitchCase/src/com/Practica6Switchcase/app/SwichStatement.java)
 - [Arreglo basico](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/Array1D.java)
+- [Exceptions](https://github.com/UrielMendozaG/Java/blob/master/src/Exceptions/src/com/excpections/app/Exceptions.java)
+- [Assertions](https://github.com/UrielMendozaG/Java/blob/master/src/Assertions/src/com/assertions/app/AssertionsApp.java)
+- [Generics](https://github.com/UrielMendozaG/Java/tree/master/src/Generics/src/com/generics)
+- [Streams](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams/app/StreamsApp.java)
 
 ### Ejercicios
 - [Fibonacci usando array](https://github.com/UrielMendozaG/Java/blob/estable/src/Fibonacci/src/com/fibonacci/app/Fibonacci.java)
@@ -26,8 +30,8 @@
 - [Numeros primos](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/primosArray.java)
 - [Media aritmetica](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/numerosAleatoriosMediaAritmetica.java)
 - [Ejercicios usando Strings](https://github.com/UrielMendozaG/Strings)
-- [Cadenas Palindromas]()
-- [Ocurrencias]()
+- [Cadenas Palindromas](https://github.com/UrielMendozaG/Java/blob/master/src/Palindromas/src/com/palindromas/app/Palindroma.java)
+- [Ocurrencias](https://github.com/UrielMendozaG/Java/blob/master/src/Ocurrences/src/com/ocurrences/app/Ocurrences.java)
 
 ### Metodos de busqueda
 - [Sequential Search](https://github.com/UrielMendozaG/Sequential-Search)
@@ -41,7 +45,7 @@
 - [Array List](https://github.com/UrielMendozaG/Java/blob/master/src/Array%20List/src/com/arraylist/com/ArrayListApp.java)
 - [Pila](https://github.com/UrielMendozaG/Java/blob/master/src/Stacks/src/StackApp.java)
 - [Colas](https://github.com/UrielMendozaG/Java/blob/master/src/Colas/src/com/colas/app/Cola.java)
-- [Hash Maps]()
+- [Hash Maps](https://github.com/UrielMendozaG/Java/blob/master/src/HashMap/src/com/hasmap/app/HashMap_.java)
 
 
 ## Mas ejercicios en este repo
