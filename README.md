@@ -33,6 +33,7 @@
 - [Ejercicios usando Strings](https://github.com/UrielMendozaG/Strings)
 - [Cadenas Palindromas](https://github.com/UrielMendozaG/Java/blob/master/src/Palindromas/src/com/palindromas/app/Palindroma.java)
 - [Ocurrencias](https://github.com/UrielMendozaG/Java/blob/master/src/Ocurrences/src/com/ocurrences/app/Ocurrences.java)
+- [Streams, Write Table](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams2/app/WritterApp.java)
 
 ### Metodos de busqueda
 - [Sequential Search](https://github.com/UrielMendozaG/Sequential-Search)
