@@ -54,7 +54,7 @@
 - [Hash Maps](https://github.com/UrielMendozaG/Java/blob/master/src/HashMap/src/com/hasmap/app/HashMap_.java)
 
 ### Hacker Rank
-- [Triplets](https://github.com/UrielMendozaG/Java/blob/master/src/Array%20List/src/com/arraylist/com/ExcersiceTriplets.java)
+- [Triplets](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
 
 ## Mas ejercicios en este repo
 
