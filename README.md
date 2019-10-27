@@ -53,6 +53,8 @@
 - [Colas](https://github.com/UrielMendozaG/Java/blob/master/src/Colas/src/com/colas/app/Cola.java)
 - [Hash Maps](https://github.com/UrielMendozaG/Java/blob/master/src/HashMap/src/com/hasmap/app/HashMap_.java)
 
+### Hacker Rank
+- [Triplets](https://github.com/UrielMendozaG/Java/blob/master/src/Array%20List/src/com/arraylist/com/ExcersiceTriplets.java)
 
 ## Mas ejercicios en este repo
 
