@@ -52,9 +52,11 @@
 - [Pila](https://github.com/UrielMendozaG/Java/blob/master/src/Stacks/src/StackApp.java)
 - [Colas](https://github.com/UrielMendozaG/Java/blob/master/src/Colas/src/com/colas/app/Cola.java)
 - [Hash Maps](https://github.com/UrielMendozaG/Java/blob/master/src/HashMap/src/com/hasmap/app/HashMap_.java)
+- [Vector](https://github.com/UrielMendozaG/Java/tree/master/src/Vector/src)
 
 ### Hacker Rank
 - [Triplets](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
+- [Very Big Sum](https://github.com/UrielMendozaG/Java/tree/master/src/Vector/src)
 
 ## Mas ejercicios en este repo
 
