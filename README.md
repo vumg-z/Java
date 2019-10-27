@@ -16,11 +16,14 @@
 - [Edad](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica5Algoritmos/src/com/practica5algoritmos/app/Age.java)
 - [Meses](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica6SwitchCase/src/com/Practica6Switchcase/app/SwichStatement.java)
 - [Arreglo basico](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/Array1D.java)
+- [Math](https://github.com/UrielMendozaG/Math)
+- [POO Paint](https://github.com/UrielMendozaG/Paint-Java)
 - [Exceptions](https://github.com/UrielMendozaG/Java/blob/master/src/Exceptions/src/com/excpections/app/Exceptions.java)
 - [Assertions](https://github.com/UrielMendozaG/Java/blob/master/src/Assertions/src/com/assertions/app/AssertionsApp.java)
 - [Generics](https://github.com/UrielMendozaG/Java/tree/master/src/Generics/src/com/generics)
 - [Streams Reader](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams/app/StreamsApp.java)
-- [Strems Writer](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams2/app/WritterApp.java)
+- [Streams Writer](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams2/app/WritterApp.java)
+
 
 ### Ejercicios
 - [Fibonacci usando array](https://github.com/UrielMendozaG/Java/blob/estable/src/Fibonacci/src/com/fibonacci/app/Fibonacci.java)
@@ -33,6 +36,8 @@
 - [Ejercicios usando Strings](https://github.com/UrielMendozaG/Strings)
 - [Cadenas Palindromas](https://github.com/UrielMendozaG/Java/blob/master/src/Palindromas/src/com/palindromas/app/Palindroma.java)
 - [Ocurrencias](https://github.com/UrielMendozaG/Java/blob/master/src/Ocurrences/src/com/ocurrences/app/Ocurrences.java)
+- [Streams, Write Table](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams2/app/WritterApp.java)
+
 
 ### Metodos de busqueda
 - [Sequential Search](https://github.com/UrielMendozaG/Sequential-Search)
