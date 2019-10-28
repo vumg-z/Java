@@ -58,6 +58,9 @@
 - [Triplets](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
 - [Very Big Sum](https://github.com/UrielMendozaG/Java/tree/master/src/Vector/src)
 - [Plus Minus](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
+- [Min-Max Sum](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
+- [Plus Minus](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
+- [Birthday Cake](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
 
 ## Mas ejercicios en este repo
 
