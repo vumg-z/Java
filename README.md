@@ -7,6 +7,9 @@
 
 ## Tabla de Contenido
 
+### Fundamentos
+- [Fundamentos Java](https://github.com/UrielMendozaG/Generation-Mexico/blob/master/Programacion/Java/README.md)
+
 ### Practicas
 
 - [Hola mundo](https://github.com/UrielMendozaG/Java/tree/estable/src/Practica1Algoritmos/src/com/practica1algoritmos/app)
@@ -33,7 +36,7 @@
 - [Numeros pseudo-aleatorios](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/RandomNumbers.java)
 - [Numeros primos](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/primosArray.java)
 - [Media aritmetica](https://github.com/UrielMendozaG/Java/blob/estable/src/Practica7Array1D/src/com/Practica7Array1D/app/numerosAleatoriosMediaAritmetica.java)
-- [Ejercicios usando Strings](https://github.com/UrielMendozaG/Strings)
+- [Strings](https://github.com/UrielMendozaG/Strings)
 - [Cadenas Palindromas](https://github.com/UrielMendozaG/Java/blob/master/src/Palindromas/src/com/palindromas/app/Palindroma.java)
 - [Ocurrencias](https://github.com/UrielMendozaG/Java/blob/master/src/Ocurrences/src/com/ocurrences/app/Ocurrences.java)
 - [Streams, Write Table](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams2/app/WritterApp.java)
@@ -62,7 +65,7 @@
 - [Plus Minus](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
 - [Birthday Cake](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
 
-## Mas ejercicios en este repo
+## Explora mas aqui
 
 [Repo en github](https://github.com/UrielMendozaG/Generation-Mexico/blob/master/Programacion/Java/README.md#ejercicios)
 
