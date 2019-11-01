@@ -3,7 +3,8 @@
 ### Archivos
 
 - [Web Content](https://github.com/UrielMendozaG/Java/tree/master/src/HelloWorldMVC/WebContent)
-  - [index.html](https://github.com/UrielMendozaG/Java/blob/master/src/HelloWorldMVC/WebContent/index.html)
+  - [html](https://github.com/UrielMendozaG/Java/blob/master/src/HelloWorldMVC/WebContent/index.html)
+    - [index.html](https://github.com/UrielMendozaG/Java/blob/master/src/HelloWorldMVC/WebContent/index.html)
   - [css](https://github.com/UrielMendozaG/Java/tree/master/src/HelloWorldMVC/WebContent/css)
     - [styles.css](https://github.com/UrielMendozaG/Java/blob/master/src/HelloWorldMVC/WebContent/css/main.css)
   - [js](https://github.com/UrielMendozaG/Java/tree/master/src/HelloWorldMVC/WebContent/js)  
