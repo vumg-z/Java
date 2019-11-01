@@ -2,7 +2,7 @@
 
 ### Archivos
 
-- [Web Content](https://github.com/UrielMendozaG/Java/tree/master/src/HelloWorldMVC/WebContent)
+- [View](https://github.com/UrielMendozaG/Java/tree/master/src/HelloWorldMVC/WebContent)
   - [html](https://github.com/UrielMendozaG/Java/blob/master/src/HelloWorldMVC/WebContent/index.html)
     - [index.html](https://github.com/UrielMendozaG/Java/blob/master/src/HelloWorldMVC/WebContent/index.html)
   - [css](https://github.com/UrielMendozaG/Java/tree/master/src/HelloWorldMVC/WebContent/css)
