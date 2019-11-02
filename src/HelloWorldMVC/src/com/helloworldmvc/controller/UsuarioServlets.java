@@ -7,6 +7,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import helloworldMVC.model.User;
+
 
 @WebServlet("/UsuarioServlets")
 public class UsuarioServlets extends HttpServlet {
@@ -26,16 +28,23 @@ public class UsuarioServlets extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		String sid = "";
+		int iid = 0;
 		String sname = "";
-		String slmao = "";
+		
 		
 		sid = request.getParameter("id");
+		iid = Integer.parseInt(sid);
 		sname = request.getParameter("edad");
-		slmao = request.getParameter("lmao");
+
 		
-		response.getWriter().append("The id input is: "+sid);
-		response.getWriter().append("The input name is: "+sname);
-		response.getWriter().append("The lmao input is: "+slmao);
+		User myUser = new User(iid,sname);
+	
+		
+		response.getWriter().append("The input ID is: "+myUser.getId());
+		response.getWriter().append("The input name is: "+myUser.getNombre());
+		
 	}
+    
+    
 
 }
