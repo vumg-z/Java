@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+
+	<h2> Varias practicas usando servlet </h2>
+
+	<form class="form-group" action="WelcomeServlet" method="post">
+		<input class="btn btn-danger" type="submit" value="Show Message">
+	</form>
+
+	<h2> Exercise 2 Tunned Welcome Mesagge </h2>
+	
+	<form class="form-group" action="TunnedWelcomeServlet" method="post">
+		<p>
+			<label for="txtMessage">Message: </label>
+			<input class="form-control" type="text" id="txtMessage" name="txtMessage">
+		</p>
+		<input class="btn btn-danger" type="submit" value="Show Tunned Message">
+	</form> 
+	
+	<h2> Exercise 3 Addition og two numbers </h2>
+	
+	<form class="form-group" action="Suma" method="post">
+		<p>
+			<label for="txtNumber1">Input a number: </label>
+			<input class="form-control" type="text" id="txtNumber1" name="txtNumber1">
+		</p>
+		<p>
+			<label for="txtNumber2">Input a number: </label>
+			<input class="form-control" type="text" id="txtNumber2" name="txtNumber2">
+		</p>
+		<input class="btn btn-danger" type="submit" value="Make sum">
+	</form> 
+	
+	<h2> Exercise 4 Prime Numbers </h2>
+	<form class="form-group" action="PrimeNumbers" method="post">
+		<p>
+			<label for="txtNumber1">Input a number: </label>
+			<input class="form-control" type="text" id="txtNumber" name="txtNumber">
+		</p>
+		
+		<input class="btn btn-danger" type="submit" value="is prime?">
+	</form> 
+		
+	<script src="js/jquery-3.4.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/script.js"></script>
+</body>
+</html>
