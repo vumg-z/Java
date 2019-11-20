@@ -26,7 +26,6 @@
 - [Generics](https://github.com/UrielMendozaG/Java/tree/master/src/Generics/src/com/generics)
 - [Streams Reader](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams/app/StreamsApp.java)
 - [Streams Writer](https://github.com/UrielMendozaG/Java/blob/master/src/Streams/src/com/streams2/app/WritterApp.java)
-- [Palabras Matonas](https://github.com/UrielMendozaG/Java/tree/master/src/FrasesMatonasJDBC)
 - [Fibonacci usando array](https://github.com/UrielMendozaG/Java/blob/estable/src/Fibonacci/src/com/fibonacci/app/Fibonacci.java)
 - [Fibonacci usando contadores](https://github.com/UrielMendozaG/Java/blob/estable/src/Fibonacci/src/com/fibonacci/app/FibonacciContadores.java)
 - [Factorial](https://github.com/UrielMendozaG/Java/blob/estable/src/factorial/src/com/factorial/app/Factorial.java)
@@ -47,6 +46,7 @@
 - [Colas](https://github.com/UrielMendozaG/Java/blob/master/src/Colas/src/com/colas/app/Cola.java)
 - [Hash Maps](https://github.com/UrielMendozaG/Java/blob/master/src/HashMap/src/com/hasmap/app/HashMap_.java)
 - [Vector](https://github.com/UrielMendozaG/Java/tree/master/src/Vector/src)
+- [Palabras Matonas](https://github.com/UrielMendozaG/Java/tree/master/src/FrasesMatonasJDBC)
 
 ### Hacker Rank
 - [Triplets](https://github.com/UrielMendozaG/Java/tree/master/src/Array%20List/src/com/arraylist/com)
